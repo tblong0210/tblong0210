@@ -24,10 +24,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=tblong0210&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tblong0210&theme=monokai&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophy">
-</div>
 
 ## ✍️ Random Dev Quote
 <div align="center">
